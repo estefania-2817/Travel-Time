@@ -1,0 +1,33 @@
+src_city,dest_city,distance
+Westside,Florida,80
+Westside,Los Angelos,200
+Westside,Dubay,110
+Westside,Bugapest,60
+Westside,Mosbull,100
+Westside,New York,130
+Florida,Unstanbul,200
+Los Angelos,Dubay,70
+Los Angelos,Dome,100
+Los Angelos,Cayro,40
+Dubay,Paris,50
+Dubay,Cayro,25
+Dubay,Sydney,90
+Dubay,Berlint,50
+Sydney,Takyo,45
+Takyo,Cayro,30
+Takyo,Dome,65
+Takyo,Unstanbul,50
+Dome,Cayro,50
+Paris,Mosbull,90
+Paris,Loondun,110
+Cayro,Bugapest,30
+Berlint,Mosbull,70
+Bugapest,Unstanbul,70
+Bugapest,Bostin,20
+Bostin,Mosbull,70
+Bostin,New York,30
+Bostin,Loondun,50
+Loondun,Mosbull,100
+Loondun,Chicargo,30
+Loondun,Unstanbul,130
+Unstanbul,Chicargo,80
